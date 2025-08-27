@@ -22,7 +22,7 @@
 ---
 
 ### 🛠 Tech Playground
-`C++` (the toxic love affair) • `Python` (the safe rebound) • `Linux` (Pop!_OS riced into chaos)  
+`C/C++`  • `Python` (ew) • `Linux` • `Vim(yeah why??)`
 `Git` (therapy + trauma) • `AI/ML` (because why not make the computer suffer too)  
 
 ---
