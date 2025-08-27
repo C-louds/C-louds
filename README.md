@@ -22,7 +22,7 @@
 ---
 
 ### 🛠 Tech Playground
-`C/C++`  • `Python` (ew) • `Linux` • `Vim(yeah why??)`
+`C/C++`  • `Python` (ew) • `Linux` • `Vim`(yeah why??)
 `Git` (therapy + trauma) • `AI/ML` (because why not make the computer suffer too)  
 
 ---
