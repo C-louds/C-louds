@@ -1,5 +1,5 @@
-<h1 align="center">🌪️ Clouds aka Dattraj</h1>
-
+<h1 align="center">☁️ Clouds</h1>
+<h5 align ="center">aka Dattraj</h5>
 <p align="center">
   <em>"Balancing code, football, and curiosity — trying to commit all at once.  
   (No, it’s not balanced. Everything is dangling by a segfault, hanging for dear life.)"</em>
@@ -27,11 +27,6 @@
 
 ---
 
-### 📊 Unhinged GitHub Vibes
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudsinsky&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudsinsky&layout=compact&theme=radical" alt="langs" height="150"/>
-</p>
 
 ---
 
@@ -49,8 +44,8 @@
   
 
 ---
-<h3 align="center">*"This too shall pass."*</h3>
+<h3 align="center">"This too shall pass."</h3>
 <p align="center">
-  ⚡ <em>"Mors certa, hora incerta — Death is certain, its hour is uncertain.  
-  Same goes for my code compiling."</em> ⚡
+   <em>"Mors certa, hora incerta — Death is certain, its hour is uncertain.  
+  Same goes for my code compiling."</em> 
 </p>
