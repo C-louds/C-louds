@@ -8,7 +8,7 @@
 ---
 
 ### 🌀 Who am I?  
-- A CS student who thought **“pointers can’t be that bad”** (they were).  
+- An undergrad student who thought **“pointers can’t be that bad”** (they were).  
 - Footballer ⚽ who writes code with the same energy as a last-minute goal attempt.  
 - Running on coffee, Linux crashes, and sheer **`git push --force`** energy.  
 - I don’t "find bugs" — the bugs find me.  
@@ -22,7 +22,7 @@
 ---
 
 ### 🛠 Tech Playground
-`C/C++`  • `Python` (ew) • `Linux` • `Vim`(yeah why??)
+`C/C++`  • `Python` • `HTML/CSS/JS`(incomplete without this) • `Linux` • `Vim`(yeah why??)
 `Git` (therapy + trauma) • `AI/ML` (because why not make the computer suffer too)  
 
 ---
